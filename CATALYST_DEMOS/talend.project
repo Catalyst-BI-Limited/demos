@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_5CBgEdXWEfC5Rcx6TvtyhA" label="Catalyst_Demos" description="Demo Project for Pre-Sales.&#xA;DON&amp;#39;T BREAK ANYTHING!" language="java" technicalLabel="CATALYST_DEMOS" author="_5CBgEtXWEfC5Rcx6TvtyhA" productVersion="Talend Cloud Data Fabric-8.0.1.20250927_1321-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Catalyst-BI-Limited/demos.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_5DEB4NXWEfC5Rcx6TvtyhA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_5CBgEtXWEfC5Rcx6TvtyhA" login="stephen.elves@catalystbilimitednfr" firstName="Stephen" lastName="Elves" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrEdXXEfCIK_R9LbOimg" login="lee3@catalystbilimitednfr" firstName="Lee" lastName="Connor" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrEtXXEfCIK_R9LbOimg" login="noel.watson@catalystbilimitednfr" firstName="Noel" lastName="Watson" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrE9XXEfCIK_R9LbOimg" login="richard.brown@catalystbilimitednfr" firstName="Richard" lastName="Brown" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrFNXXEfCIK_R9LbOimg" login="steve.bates@catalystbilimitednfr" firstName="Steve" lastName="Bates" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrFdXXEfCIK_R9LbOimg" login="alex.hocquigny@catalystbilimitednfr" firstName="Alex" lastName="Hocquigny" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrFtXXEfCIK_R9LbOimg" login="alex.hicks@catalystbilimitednfr" firstName="Alex" lastName="Hicks" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrF9XXEfCIK_R9LbOimg" login="stephen.elves+catalyst@catalystbilimitednfr" firstName="Stephen" lastName="Elves" type="DQ"/>
+  <TalendProperties:User xmi:id="_BkIrGNXXEfCIK_R9LbOimg" login="lee@catalystbilimitednfr" firstName="Lee" lastName="Connor" type="DQ"/>
+</xmi:XMI>

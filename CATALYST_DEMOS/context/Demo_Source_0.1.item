@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_5ecf4NXiEfCIK_R9LbOimg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_5ecf4dXiEfCIK_R9LbOimg" comment="" name="connection_SQLServer_username" prompt="connection_SQLServer_username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="QDI_SQL_Admin"/>
+  <contextParameter xmi:id="_5ecf4tXiEfCIK_R9LbOimg" comment="" name="connection_SQLServer_host" prompt="connection_SQLServer_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="qdidemo.database.windows.net"/>
+  <contextParameter xmi:id="_5ecf49XiEfCIK_R9LbOimg" comment="" name="connection_SQLServer_port" prompt="connection_SQLServer_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_5ecf5NXiEfCIK_R9LbOimg" comment="" name="connection_SQLServer_database" prompt="connection_SQLServer_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Northwind"/>
+  <contextParameter xmi:id="_5ecf5dXiEfCIK_R9LbOimg" comment="" name="connection_SQLServer_password" prompt="connection_SQLServer_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:ZVCwbBES0zMKV51XsEIne8m41f6m7/3Qr8iRcAQrzdsO0Pbir/nYDzWFWfy7MQQ41Qkomf+w0bdwkoVjuto="/>
+  <contextParameter xmi:id="_iGpdkNXjEfCIK_R9LbOimg" comment="" name="connection_SQLServer_schema" prompt="connection_SQLServer_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dbo"/>
+  <contextParameter xmi:id="_jThjkNXnEfCIK_R9LbOimg" comment="" name="connection_SQLServer_additional_params" prompt="connection_SQLServer_additional_params?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>
