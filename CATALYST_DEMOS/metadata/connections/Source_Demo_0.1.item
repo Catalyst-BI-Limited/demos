@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010">
-  <TalendMetadata:DatabaseConnection xmi:id="_H614ANXjEfCIK_R9LbOimg" name="Source_Demo" id="_7yPHcNXiEfCIK_R9LbOimg" label="Source_Demo" dataPackage="_IMoLkNXjEfCIK_R9LbOimg" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://qdidemo.database.windows.net:1433;DatabaseName=Northwind;" dbVersionString="MSSQL_PROP" Port="1433" Username="QDI_SQL_Admin" Password="enc:system.encryption.key.v1:myX0bSJBhqWkDB/KpTih2XEFze2BhxqV1bYjL1cO0Eyau1+cLX8t7Bz7KXSgOaMblDKCUG2TcQgJ66AyFAE=" ServerName="qdidemo.database.windows.net" DatasourceName="" FileFieldName="" SID="Northwind" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo" supportNLS="false">
+  <TalendMetadata:DatabaseConnection xmi:id="_H614ANXjEfCIK_R9LbOimg" name="Source_Demo" id="_7yPHcNXiEfCIK_R9LbOimg" label="Source_Demo" dataPackage="_IMoLkNXjEfCIK_R9LbOimg" ContextMode="true" ContextId="_5eEFYNXiEfCIK_R9LbOimg" contextName="Default" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://qdidemo.database.windows.net:1433;DatabaseName=Northwind;" dbVersionString="MSSQL_PROP" Port="context.connection_SQLServer_port" Username="context.connection_SQLServer_username" Password="context.connection_SQLServer_password" ServerName="context.connection_SQLServer_host" DatasourceName="" FileFieldName="" SID="context.connection_SQLServer_database" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="context.connection_SQLServer_additional_params" StandardSQL="true" SQLMode="false" UiSchema="context.connection_SQLServer_schema" supportNLS="false">
     <taggedValue xmi:id="_H614AdXjEfCIK_R9LbOimg" tag="Is Conn Need Reload" value="false"/>
     <taggedValue xmi:id="_H9IXANXjEfCIK_R9LbOimg" tag="package filter" value=""/>
     <taggedValue xmi:id="_H9IXAdXjEfCIK_R9LbOimg" tag="Status" value=""/>
@@ -12,7 +12,7 @@
     <taggedValue xmi:id="_IDv8YNXjEfCIK_R9LbOimg" tag="DB ProductName" value="Microsoft SQL Server"/>
     <taggedValue xmi:id="_IDv8YdXjEfCIK_R9LbOimg" tag="DB ProductVersion" value="12.00.924"/>
     <taggedValue xmi:id="_IDv8YtXjEfCIK_R9LbOimg" tag="DB IdentifierQuoteString" value="&quot;"/>
-    <parameters xmi:id="_H614AtXjEfCIK_R9LbOimg" key="CONN_PARA_KEY_USERNAME" value="QDI_SQL_Admin"/>
+    <parameters xmi:id="_H614AtXjEfCIK_R9LbOimg" key="CONN_PARA_KEY_USERNAME" value="context.connection_SQLServer_username"/>
     <parameters xmi:id="_VOrFkNXjEfCIK_R9LbOimg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
   </TalendMetadata:DatabaseConnection>
   <orgomg.cwm.resource.relational:Catalog xmi:id="_IMoLkNXjEfCIK_R9LbOimg" name="Northwind" dataManager="_H614ANXjEfCIK_R9LbOimg">

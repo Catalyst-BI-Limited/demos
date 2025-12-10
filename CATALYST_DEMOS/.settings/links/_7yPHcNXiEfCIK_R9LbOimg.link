@@ -1,0 +1,29 @@
+{
+  "itemId" : "_7yPHcNXiEfCIK_R9LbOimg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_5eEFYNXiEfCIK_R9LbOimg",
+    "parameterList" : [ {
+      "id" : "_5ecf4dXiEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_username"
+    }, {
+      "id" : "_5ecf4tXiEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_host"
+    }, {
+      "id" : "_5ecf49XiEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_port"
+    }, {
+      "id" : "_5ecf5NXiEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_database"
+    }, {
+      "id" : "_5ecf5dXiEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_password"
+    }, {
+      "id" : "_iGpdkNXjEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_schema"
+    }, {
+      "id" : "_jThjkNXnEfCIK_R9LbOimg",
+      "name" : "connection_SQLServer_additional_params"
+    } ]
+  } ]
+}
