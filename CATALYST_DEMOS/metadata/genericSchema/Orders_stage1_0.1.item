@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_2nL2EtZqEfCx0oYj1PzWvw" comment="connectionComment" label="connectionLabel" dataPackage="_2nL2E9ZqEfCx0oYj1PzWvw"/>
+  <TalendMetadata:GenericPackage xmi:id="_2nL2E9ZqEfCx0oYj1PzWvw" dataManager="_2nL2EtZqEfCx0oYj1PzWvw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_2nL2FNZqEfCx0oYj1PzWvw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2FdZqEfCx0oYj1PzWvw" name="CustomerID" id="739" label="CustomerID" length="5" sourceType="NCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2FtZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2F9ZqEfCx0oYj1PzWvw" name="EmployeeID" id="740" label="EmployeeID" length="10" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_2nL2GNZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2GdZqEfCx0oYj1PzWvw" name="OrderDate" id="741" label="OrderDate" length="23" precision="3" sourceType="DATETIME" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_2nL2GtZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2G9ZqEfCx0oYj1PzWvw" name="RequiredDate" id="742" label="RequiredDate" length="23" precision="3" sourceType="DATETIME" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_2nL2HNZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2HdZqEfCx0oYj1PzWvw" name="ShippedDate" id="743" label="ShippedDate" length="23" precision="3" sourceType="DATETIME" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_2nL2HtZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2H9ZqEfCx0oYj1PzWvw" name="ShipVia" id="744" label="ShipVia" length="10" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_2nL2INZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2IdZqEfCx0oYj1PzWvw" name="Freight" id="745" label="Freight" length="19" precision="4" sourceType="MONEY" talendType="id_Object">
+        <initialValue xmi:id="_2nL2ItZqEfCx0oYj1PzWvw" body="'(0)'"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2I9ZqEfCx0oYj1PzWvw" name="ShipName" id="746" label="ShipName" length="40" sourceType="NVARCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2JNZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2JdZqEfCx0oYj1PzWvw" name="ShipAddress" id="747" label="ShipAddress" length="60" sourceType="NVARCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2JtZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2J9ZqEfCx0oYj1PzWvw" name="ShipCity" id="748" label="ShipCity" length="15" sourceType="NVARCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2KNZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2KdZqEfCx0oYj1PzWvw" name="ShipRegion" id="749" label="ShipRegion" length="15" sourceType="NVARCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2KtZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2K9ZqEfCx0oYj1PzWvw" name="ShipPostalCode" id="750" label="ShipPostalCode" length="10" sourceType="NVARCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2LNZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2LdZqEfCx0oYj1PzWvw" name="ShipCountry" id="751" label="ShipCountry" length="15" sourceType="NVARCHAR" talendType="id_String">
+        <initialValue xmi:id="_2nL2LtZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2L9ZqEfCx0oYj1PzWvw" name="ProductID" id="752" label="ProductID" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
+        <initialValue xmi:id="_2nL2MNZqEfCx0oYj1PzWvw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2MdZqEfCx0oYj1PzWvw" name="UnitPrice" id="753" label="UnitPrice" length="19" precision="4" sourceType="MONEY" talendType="id_Object" nullable="false">
+        <initialValue xmi:id="_2nL2MtZqEfCx0oYj1PzWvw" body="'(0)'"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2M9ZqEfCx0oYj1PzWvw" name="Quantity" id="754" label="Quantity" length="5" sourceType="SMALLINT" talendType="id_Short" nullable="false">
+        <initialValue xmi:id="_2nL2NNZqEfCx0oYj1PzWvw" body="((1))"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2nL2NdZqEfCx0oYj1PzWvw" name="Discount" id="755" label="Discount" length="24" sourceType="REAL" talendType="id_Float" nullable="false">
+        <initialValue xmi:id="_2nL2NtZqEfCx0oYj1PzWvw" body="((0))"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

@@ -390,7 +390,7 @@
         </feature>
         <feature xsi:type="relational:TdColumn" xmi:id="_cNyz9dXjEfCIK_R9LbOimg" name="Discontinued" label="Discontinued" length="1" sourceType="BIT" talendType="id_Boolean" nullable="false">
           <taggedValue xmi:id="_cNyz9tXjEfCIK_R9LbOimg" tag="Comment" value=""/>
-          <initialValue xsi:type="relational:TdExpression" xmi:id="_cNyz99XjEfCIK_R9LbOimg" body="'(0)'" language="COLUMN_DEF"/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_cNyz99XjEfCIK_R9LbOimg" body="" language="COLUMN_DEF"/>
           <sqlDataType xmi:id="_cNyz-NXjEfCIK_R9LbOimg" name="BIT" javaDataType="-7"/>
         </feature>
       </ownedElement>

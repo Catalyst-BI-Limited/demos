@@ -1,0 +1,62 @@
+{
+  "itemId" : "_oKY-4NZ2EfCx0oYj1PzWvw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_LlCZ8NZ0EfCx0oYj1PzWvw",
+    "parameterList" : [ {
+      "id" : "_LlSRkdZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_oauthProperties_clientId"
+    }, {
+      "id" : "_LlSRktZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_schemaName"
+    }, {
+      "id" : "_LlSRk9Z0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_db"
+    }, {
+      "id" : "_LlSRlNZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_oauthProperties_scope"
+    }, {
+      "id" : "_LlSRldZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_regionID"
+    }, {
+      "id" : "_LlSRltZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_LlSRl9Z0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_userPassword_userId"
+    }, {
+      "id" : "_LlSRmNZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_userPassword_password"
+    }, {
+      "id" : "_LlSRmdZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_LlSRmtZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_jdbcParameters"
+    }, {
+      "id" : "_LlSRm9Z0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_role"
+    }, {
+      "id" : "_LlSRnNZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_jdbcUrlSuffix"
+    }, {
+      "id" : "_LlSRndZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_oauthProperties_clientSecret"
+    }, {
+      "id" : "_LlSRntZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_account"
+    }, {
+      "id" : "_LlSRn9Z0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_keyAlias"
+    }, {
+      "id" : "_LlSRoNZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_LlSRodZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_warehouse"
+    }, {
+      "id" : "_LlSRotZ0EfCx0oYj1PzWvw",
+      "name" : "connection_snowflake_loginTimeout"
+    } ]
+  } ]
+}
